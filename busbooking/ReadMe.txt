@@ -1,0 +1,1 @@
+To use the boolingApp You Must Have PrePrepared DataBase with all attributes pre-defined in the SQL statment insert
